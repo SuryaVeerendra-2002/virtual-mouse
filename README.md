@@ -1,4 +1,4 @@
-#AI Virtual Mouse & Gesture Controller
+# AI Virtual Mouse & Gesture Controller
 
 An advanced, real-time AI-powered virtual mouse and gesture controller implemented in Python. By leveraging computer vision and machine learning (Google MediaPipe and OpenCV), this system detects hand landmarks via webcam and translates them into fluid mouse movements, clicks, scrolling, volume, and brightness adjustments.
 
